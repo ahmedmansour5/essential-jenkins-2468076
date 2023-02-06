@@ -18,3 +18,5 @@ They also want to display the status of that most recent test directly in the re
 - Review the contents of the report for more information.
 
 _*This challenge should take about 15 to 20 minutes to complete.*_
+
+[![Build Status](http://129.80.160.92:8080/buildStatus/icon?job=ch03_challenge)](http://129.80.160.92:8080/job/ch03_challenge/)
