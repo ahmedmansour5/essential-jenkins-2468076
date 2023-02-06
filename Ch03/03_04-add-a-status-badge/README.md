@@ -30,6 +30,3 @@ To enable status badges, your Jenkins server must have the [Embeddable Build Sta
   - Paste the snippet at the top of the file.
   - Commit the file.
   - Confirm that the status badge appears in the file.
-
-[![Build Status](http://129.80.160.92:8080/buildStatus/icon?job=fibonacci-github-repo)](http://129.80.160.92:8080/job/fibonacci-github-repo/)
-
